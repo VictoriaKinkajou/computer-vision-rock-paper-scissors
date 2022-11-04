@@ -3,4 +3,8 @@ Rock-Paper-Scissors is a game in which each player simultaneously shows one of t
 
 ## Milestone_2
 Using Teachable Machines, I have created an image project model with four classes: Rock, Paper, Scissors and None.
-I'm now supposed to write about how I will use this model for my project, but to be honest I don't know yet, because there is no explanation in the project overview and I can't look ahead at the tasks because they are locked.
+In a future milestone, I will use this model to receive user input from the camera.
+
+## Milestone_4
+The manual_rps.py file contains the code to play the rock paper scissors game, with the user typing "rock", "paper" or "scissors".
+The computer chooses one of the words at random. The user-selected word is compared with the computer-selected word to determine whether the user or computer has won the game.
