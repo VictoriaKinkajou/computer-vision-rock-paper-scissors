@@ -24,4 +24,4 @@ This game uses OpenCV to take a frame from the webcam each five seconds and inte
 <img src="Screenshot 2022-11-18 095612.jpg" alt="User choosing rock" width="500"/>
 
 ## Future Improvements
-I would like to add a countdown to the webcam display, and a pause between rounds that the user can end and continue the game by pressing the C key.
+I would like to add a countdown to the webcam display, and a pause between rounds that the user can end and by pressing the C key, to continue to the next round.
