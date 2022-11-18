@@ -19,4 +19,6 @@ Libraries used:
 
 This game uses OpenCV to take a frame from the webcam each five seconds and interpret the image, using keras.models, to determine whether the user is showing "rock", "paper" or "scissors". This user input is compared with a randomly chosen word from the list of ["rock", "paper", "scissors"] and a winner is declared, using the classic rules of the game (rock beats scissors, paper beats rock, scissors beats paper). The first player to win three rounds is the overall winner.
 
-<img src="Rock.jpg" alt="User choosing rock" width="200"/>
+<img src="Rock.jpg" alt="User choosing rock" width="200"/>     <img src="Scissors.jpg" alt="User choosing scissors" width="200"/>
+
+<img src="Screenshot 2022-11-18 095612.jpg" alt="User choosing rock" width="200"/>
